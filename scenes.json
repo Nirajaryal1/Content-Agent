@@ -1,0 +1,114 @@
+{
+  "master_prompt": "Story of baby Hanuman who was going to eat Sun.",
+  "settings": {
+    "scenes": 10,
+    "seconds_per_scene": 8,
+    "aspect_ratio": "16:9",
+    "fps": 24,
+    "seed": null,
+    "style_lock": "",
+    "negative": ""
+  },
+  "scenes": [
+    {
+      "index": 1,
+      "title": "Scene 1 — Establishing",
+      "prompt": "Story of baby Hanuman who was going to eat Sun.. Scene 1 — Establishing: Wide establishing context, place and tone. Shot: ultra-wide establishing shot; Camera: slow cinematic pan; Lighting: golden-hour warmth. Motion should be cinematic and coherent; keep character/visual continuity across scenes. High detail, photoreal textures (if applicable), filmic color grade, smooth motion.",
+      "seconds": 8,
+      "ar": "16:9",
+      "fps": 24,
+      "seed": null,
+      "negative": ""
+    },
+    {
+      "index": 2,
+      "title": "Scene 2 — Character intro",
+      "prompt": "Story of baby Hanuman who was going to eat Sun.. Scene 2 — Character intro: Introduce subject/hero with clear silhouette. Shot: wide shot; Camera: gentle dolly-in; Lighting: blue-hour coolness. Motion should be cinematic and coherent; keep character/visual continuity across scenes. High detail, photoreal textures (if applicable), filmic color grade, smooth motion.",
+      "seconds": 8,
+      "ar": "16:9",
+      "fps": 24,
+      "seed": null,
+      "negative": ""
+    },
+    {
+      "index": 3,
+      "title": "Scene 3 — Inciting detail",
+      "prompt": "Story of baby Hanuman who was going to eat Sun.. Scene 3 — Inciting detail: A discovery or signal that kicks motion. Shot: medium shot; Camera: steadicam tracking; Lighting: neon rim light. Motion should be cinematic and coherent; keep character/visual continuity across scenes. High detail, photoreal textures (if applicable), filmic color grade, smooth motion.",
+      "seconds": 8,
+      "ar": "16:9",
+      "fps": 24,
+      "seed": null,
+      "negative": ""
+    },
+    {
+      "index": 4,
+      "title": "Scene 4 — Journey begins",
+      "prompt": "Story of baby Hanuman who was going to eat Sun.. Scene 4 — Journey begins: Movement through space; reveal depth. Shot: medium-close shot; Camera: drone-style orbit; Lighting: moody chiaroscuro. Motion should be cinematic and coherent; keep character/visual continuity across scenes. High detail, photoreal textures (if applicable), filmic color grade, smooth motion.",
+      "seconds": 8,
+      "ar": "16:9",
+      "fps": 24,
+      "seed": null,
+      "negative": ""
+    },
+    {
+      "index": 5,
+      "title": "Scene 5 — Rising tension",
+      "prompt": "Story of baby Hanuman who was going to eat Sun.. Scene 5 — Rising tension: Obstacles or crowding composition. Shot: close-up; Camera: tilt up reveal; Lighting: soft volumetric fog. Motion should be cinematic and coherent; keep character/visual continuity across scenes. High detail, photoreal textures (if applicable), filmic color grade, smooth motion.",
+      "seconds": 8,
+      "ar": "16:9",
+      "fps": 24,
+      "seed": null,
+      "negative": ""
+    },
+    {
+      "index": 6,
+      "title": "Scene 6 — Midpoint turn",
+      "prompt": "Story of baby Hanuman who was going to eat Sun.. Scene 6 — Midpoint turn: A twist, vista, or scale change. Shot: extreme close-up; Camera: whip-pan accent (subtle); Lighting: hard backlight silhouettes. Motion should be cinematic and coherent; keep character/visual continuity across scenes. High detail, photoreal textures (if applicable), filmic color grade, smooth motion.",
+      "seconds": 8,
+      "ar": "16:9",
+      "fps": 24,
+      "seed": null,
+      "negative": ""
+    },
+    {
+      "index": 7,
+      "title": "Scene 7 — Setback",
+      "prompt": "Story of baby Hanuman who was going to eat Sun.. Scene 7 — Setback: Low-angle/close-up to stress emotion. Shot: tracking shot; Camera: push-in through foreground; Lighting: rain-kissed reflections. Motion should be cinematic and coherent; keep character/visual continuity across scenes. High detail, photoreal textures (if applicable), filmic color grade, smooth motion.",
+      "seconds": 8,
+      "ar": "16:9",
+      "fps": 24,
+      "seed": null,
+      "negative": ""
+    },
+    {
+      "index": 8,
+      "title": "Scene 8 — Push forward",
+      "prompt": "Story of baby Hanuman who was going to eat Sun.. Scene 8 — Push forward: Faster motion or dynamic camerawork. Shot: dolly-in; Camera: parallax with foreground occluders; Lighting: dappled forest light. Motion should be cinematic and coherent; keep character/visual continuity across scenes. High detail, photoreal textures (if applicable), filmic color grade, smooth motion.",
+      "seconds": 8,
+      "ar": "16:9",
+      "fps": 24,
+      "seed": null,
+      "negative": ""
+    },
+    {
+      "index": 9,
+      "title": "Scene 9 — Climax",
+      "prompt": "Story of baby Hanuman who was going to eat Sun.. Scene 9 — Climax: Most epic scale; peak emotion. Shot: crane/aerial sweep; Camera: rack focus moment; Lighting: starlit ambience. Motion should be cinematic and coherent; keep character/visual continuity across scenes. High detail, photoreal textures (if applicable), filmic color grade, smooth motion.",
+      "seconds": 8,
+      "ar": "16:9",
+      "fps": 24,
+      "seed": null,
+      "negative": ""
+    },
+    {
+      "index": 10,
+      "title": "Scene 10 — Resolution",
+      "prompt": "Story of baby Hanuman who was going to eat Sun.. Scene 10 — Resolution: Exhale; lingering shot, payoff or quiet detail. Shot: static locked-off with subtle parallax; Camera: locked-off with atmospheric movement; Lighting: overcast softbox sky. Motion should be cinematic and coherent; keep character/visual continuity across scenes. High detail, photoreal textures (if applicable), filmic color grade, smooth motion.",
+      "seconds": 8,
+      "ar": "16:9",
+      "fps": 24,
+      "seed": null,
+      "negative": ""
+    }
+  ]
+}
